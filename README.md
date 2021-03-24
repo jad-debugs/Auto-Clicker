@@ -1,2 +1,2 @@
 # Auto-Clicker
- Auto clicker using python pynput
+ Auto-Clicker using python pynput
