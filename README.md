@@ -1,8 +1,8 @@
 # Auto-Clicker
 ## Auto-Clicker using python pynput
-### ```Pynput``` is need to use this autoclicker
+### ```Pynput``` is needed to use this autoclicker
 Check out [this page](https://pypi.org/project/pynput/#description) to learn about ```pynput```
-### Some of the important variables you should customize are:
+### Some of the important variables you may customize are:
 ```
 delay
 button
